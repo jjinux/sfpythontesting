@@ -1,5 +1,5 @@
-Testing Class
-=============
+SF Python Testing
+=================
 
 This is for a class on testing with nose and mock:
 
