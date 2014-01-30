@@ -20,8 +20,8 @@ Setup
     sudo easy_install -U setuptools
     sudo easy_install pip
     sudo pip install virtualenv
-    mkdir ~/Desktop/testingclass
-    cd ~/Desktop/testingclass
+    mkdir ~/Desktop/sfpythontesting
+    cd ~/Desktop/sfpythontesting
     virtualenv env
 
     # Do this anytime you want to work on the application.
