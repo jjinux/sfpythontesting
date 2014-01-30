@@ -37,7 +37,7 @@ Setup
 Running Tests
 -------------
 
-   nosetests
+   nosetests --with-doctest
 
 See Also
 --------

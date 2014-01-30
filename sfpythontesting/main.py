@@ -36,3 +36,13 @@ def make_a_move_with_dependency_injection(randint=random.randint):
     return "Attack!"
   else:
     return "Defend!"
+
+
+def hello_doctest(name):
+  """This is a Hello World function for using Doctest.
+
+  >>> hello_doctest("JJ")
+  'Hello, JJ!'
+
+  """
+  return "Hello, %s!" % name
