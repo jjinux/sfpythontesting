@@ -1,13 +1,15 @@
 SF Python Testing
 =================
 
-This is for a class on testing with nose and mock:
+This is for a talk on testing at SF Python Meetup. I'll be covering nose, mock, monkey patching,
+dependency injection, and doctest.
 
   1. Getting everything setup with pip, virtualenv, etc.
   2. Using nose.
   3. Writing a test for code that should raise an exception.
   4. Testing using mock.patch.
   5. Testing using dependency injection.
+  6. Testing with Doctest.
 
 Setup
 -----
