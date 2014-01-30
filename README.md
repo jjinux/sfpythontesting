@@ -1,8 +1,8 @@
 SF Python Testing
 =================
 
-This is for a talk on testing at SF Python Meetup. I'll be covering nose, mock, monkey patching,
-dependency injection, and doctest.
+This is the code for a testing talk I helped give at SF Python Meetup. It covers virtualenv, nose,
+mock, monkey patching, dependency injection, and doctest.
 
   1. Getting everything setup with pip, virtualenv, etc.
   2. Using nose.
