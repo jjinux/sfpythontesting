@@ -39,7 +39,7 @@ Setup
 Running Tests
 -------------
 
-   nosetests --with-doctest
+    nosetests --with-doctest
 
 See Also
 --------
