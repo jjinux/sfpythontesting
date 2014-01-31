@@ -1,15 +1,12 @@
 SF Python Testing
 =================
 
-This is the code for a testing talk I helped give at SF Python Meetup. It covers virtualenv, nose,
-mock, monkey patching, dependency injection, and doctest.
+This is a lightning quick introduction to virtualenv, nose, mock, monkey patching, dependency
+injection, and doctest. See the blog post:
 
-  1. Getting everything setup with pip, virtualenv, etc.
-  2. Using nose.
-  3. Writing a test for code that should raise an exception.
-  4. Testing using mock.patch.
-  5. Testing using dependency injection.
-  6. Testing with Doctest.
+  http://jjinux.blogspot.com/2014/01/python-lightning-quick-introduction-to.html
+
+I first presented this material at SF Python Meetup, hence the name of the repository.
 
 Setup
 -----
